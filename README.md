@@ -1,11 +1,13 @@
-# audify
+﻿# Audify
 
-An app that reads text from images out loud.
+An app that lets you take a picture or upload a picture from your gallery and read it out loud.
+
+## Screenshots
+
+![Screenshot 1](https://github.com/anohene1/audify/blob/master/Screenshot_20210710-153406.jpg)
+![Screenshot 2](https://github.com/anohene1/audify/blob/master/Screenshot_20210710-153433.jpg)
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
