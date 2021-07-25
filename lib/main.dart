@@ -1,4 +1,4 @@
-import 'package:audify/views/home_screen.dart';
+import 'package:audify/views/screens/home_screen.dart';
 import 'package:flutter/material.dart';
 
 // The main function runs the whole application
