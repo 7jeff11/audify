@@ -4,8 +4,9 @@ An app that lets you take a picture or upload a picture from your gallery and re
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/anohene1/audify/blob/master/Screenshot_20210710-153406.jpg)
-![Screenshot 2](https://github.com/anohene1/audify/blob/master/Screenshot_20210710-153433.jpg)
+| ![Screenshot 1](https://github.com/anohene1/audify/blob/master/Screenshot1.jpg) | ![Screenshot 2](https://github.com/anohene1/audify/blob/master/Screenshot2.jpg) |
+|----|----|
+| ![Screenshot 3](https://github.com/anohene1/audify/blob/master/Screenshot3.jpg) | ![Screenshot 4](https://github.com/anohene1/audify/blob/master/Screenshot4.jpg) |
 
 ## Getting Started
 A few resources to get you started if this is your first Flutter project:
