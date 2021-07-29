@@ -52,7 +52,7 @@ class _HomeScreenState extends State<HomeScreen> {
         actions: [
           IconButton(
             icon: Icon(
-              Icons.app_settings_alt_outlined,
+              Icons.settings,
               color: text,
             ),
             onPressed: () {
